@@ -1,2 +1,4 @@
 pkg/*
 src/*
+triggerbox-touch-detect-kwin/*
+*.pkg.tar.xz
